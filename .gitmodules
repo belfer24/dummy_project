@@ -1,0 +1,4 @@
+[submodule "dummy_module"]
+	path = dummy_module
+	url = https://github.com/belfer24/dummy_module
+	branch = master
